@@ -1,6 +1,6 @@
 <a name="top"></a>
 # CS 352 MACHINE PERCEPTION OF MUSIC AND AUDIO
-## Northwestern University Winter 2026 
+## Northwestern University Spring 2026 
 
 |[**Top**](#top)   |[**Calendar**](#calendar)  |[**Links**](#links) |[**Readings**](#readings)|
 
@@ -15,21 +15,18 @@ Prior programming experience sufficient to be able to do laboratory assignments 
 [Fundamentals of Music Processing](https://link.springer.com/book/10.1007%2F978-3-319-21945-5)
 
 ### Time & Place 
-Lecture: Tue, Thu, 3:30 - 4:50pm CST in 2122 Sheridan Rd Classroom 250
+Lecture: Tue, Tue, 3:30 - 4:50pm CST in Technological Institute M164
 
 ### Instructors & Office Hours
-[Prof. Bryan Pardo](http://bryanpardo.com) 
-10am - 11am Thursdays in Mudd 3115
+[Dr. Jason Smith](https://jas1238smith.github.io/) 
+11am - 12pm Tuesdays in Mudd 3506
 
-[TA Annie Chu](https://anniejchu.github.io)
-11am - 1pm Tuesdays in Mudd 3202
+[TA Yuchen Cao](https://anniejchu.github.io)
+11am - 1pm Tuesdays in Mudd 3108
 
-[Peer Mentor] EJ Van De Grift
-2pm - 3pm Wednesdays in Mudd 3108
+[Peer Mentor Nandini Ventakesh]
 
-[Postdoc Jason Smith](https://scholar.google.com/citations?user=1R0IoRMAAAAJ&hl=en)
-Jason Smith will help guide final projects.
-
+[Peer Mentor Aidan Mott]
 
 ### Course Policies 
 
@@ -55,27 +52,27 @@ Assignments must be submitted on the due date by the time specified on Canvas. I
 
 | Week|Date         | Topic                             | ASSIGNMENT      | Points|
 |----:|-------------|-----------------------------------|-----------------|------:|
-|1    | Tue Jan 6   | Course intro, [Recording basics](eecs352stuff/CS352-topic1-recording-basics.pdf)                                          |        |      |    
-|1    | Thu Jan 8   | [Frequency & Pitch](eecs352stuff/CS352-topic4-pitch.pdf), [Tuning Systems](eecs352stuff/CS352-topic5-tuning-systems.pdf)  |        |      |    
-|2    | Tue Jan 13  | [Loudness](eecs352stuff/CS352-topic3-loudness.pdf) & [Amplitude](eecs352stuff/CS352-topic2-amplitude.pdf)                 |        |      |    
-|2    | Thu Jan 15  | [Fourier Transforms & Spectrograms](eecs352stuff/CS352-topic6-DFT.pdf)                                                    |        |      |    
-|3    | Tue Jan 20  | [Convolution](eecs352stuff/CS352-topic8-convolution.pdf) & [Filtering](eecs352stuff/CS352-topic9-filtering.pdf)           | HW 1 Audio Basics           |     20 |    
-|3    | Thu Jan 22  | [Convolution & FFT notebooks](eecs352stuff/convolution_and_fft_notebook.zip)                                              |        |      |    
-|4    | Tue Jan 27  | [SOURCE SEPARATION WITH REPET](eecs352stuff/CS352-topic10-REPET-SIM.pdf)                                                              |                            |      | 
-|4    | Thu Jan 29  | [MFCCs and Chromagrams](eecs352stuff/CS352-topic7-Chroma-Cepstra.pdf) & [MFCC & Chroma notebooks](eecs352stuff/NUCS352_chromagram_mfcc_notebook.zip)    |    |    |    
-|5    | Tue Feb 3   | [Self Similarity](https://pseeth.github.io/public/lectures/self-similarity.html)           | HW 2 Spectrograms, Masking |  20  |
-|5    | Thu Feb 5   | MIDTERM REVIEW  + [Pitch Tracking](eecs352stuff/CS352-Single-Pitch-Detection.pdf)          |                            |      | 
-|6    | Tue Feb 10  | MIDTERM                                                                                    | MIDTERM                    |   20 |    
-|6    | Thu Feb 12  | [Sound Object Labeling](eecs352stuff/CS352-topic11-sound-object-id.pdf)                    |                            |      |    
-|7    | Tue Feb 17  | [Deep Learning](eecs352stuff/CS352-topic12-deep-nets.pdf) & [Autoencoders](eecs352stuff/DL_Autoencoders.pdf)                                 | HW 3 Infinite Jukebox      |   20 |
-|7    | Thu Feb 19  | [Embeddings](eecs352stuff/CS352-embeddings.pdf) & [Embeddings Notebook](eecs352stuff/NUCS352_clap_embeddings_notebook.zip) |  |  |
-|8    | Tue Feb 24  | Final projects, VoiceID, Source Separation                                                 |                            |      |    
-|8    | Thu Feb 26  | Final project group formation & proposals                                                  | HW 4 Using Embeddings      |        20 |    
-|9    | Tue Mar 3   | Current research in music & audio (Annie)                                                  | Project proposal due       | 3 (of 20) |    
-|9    | Thu Mar 5   | Zoom meetings with project groups (no class: meetings by appointment)                      | Project meeting            | 3 (of 20) |    
-|10   | Tue Mar 10  | Current research in music & audio                                                          |                            |           |    
-|10   | Thu Mar 12  | Zoom meetings with project groups (no class: meetings by appointment)                      | Project meeting            | 3 (of 20) |  
-|11   | Wed Mar 18  | Final project presentations 7-9pm NEW LOCATION: HCI+D Center in Francis Searle Building                          | Final project              | 11(of 20) |
+|1    | Thu Apr 2   | Course intro, [Recording basics](eecs352stuff/CS352-topic1-recording-basics.pdf)                                          |        |      |    
+|2    | Tue Apr 7   | [Frequency & Pitch](eecs352stuff/CS352-topic4-pitch.pdf), [Tuning Systems](eecs352stuff/CS352-topic5-tuning-systems.pdf)  |        |      |    
+|2    | Thu Apr 9  | [Loudness](eecs352stuff/CS352-topic3-loudness.pdf) & [Amplitude](eecs352stuff/CS352-topic2-amplitude.pdf)                 |        |      |    
+|3    | Tue Apr 14  | [Fourier Transforms & Spectrograms](eecs352stuff/CS352-topic6-DFT.pdf)                                                    |        |      |    
+|3    | Thu Apr 16  | [Convolution](eecs352stuff/CS352-topic8-convolution.pdf) & [Filtering](eecs352stuff/CS352-topic9-filtering.pdf)           | HW 1 Audio Basics           |     20 |    
+|4    | Tue Apr 21  | [Convolution & FFT notebooks](eecs352stuff/convolution_and_fft_notebook.zip)                                              |        |      |    
+|4    | Thu Apr 23  | [SOURCE SEPARATION WITH REPET](eecs352stuff/CS352-topic10-REPET-SIM.pdf)                                                              |                            |      | 
+|5    | Tue Apr 28  | [MFCCs and Chromagrams](eecs352stuff/CS352-topic7-Chroma-Cepstra.pdf) & [MFCC & Chroma notebooks](eecs352stuff/NUCS352_chromagram_mfcc_notebook.zip)    |    |    |    
+|5    | Thu Apr 30   | [Self Similarity](https://pseeth.giTueb.io/public/lectures/self-similarity.html)           | HW 2 Spectrograms, Masking |  20  |
+|6    | Tue May 5   | MIDTERM REVIEW  + [Pitch Tracking](eecs352stuff/CS352-Single-Pitch-Detection.pdf)          |                            |      | 
+|6    | Thu May 7  | MIDTERM                                                                                    | MIDTERM                    |   20 |    
+|7    | Tue May 12  | [Sound Object Labeling](eecs352stuff/CS352-topic11-sound-object-id.pdf)                    |                            |      |    
+|7    | Thu May 14  | [Deep Learning](eecs352stuff/CS352-topic12-deep-nets.pdf) & [Autoencoders](eecs352stuff/DL_Autoencoders.pdf)                                 | HW 3 Infinite Jukebox      |   20 |
+|8    | Tue May 19  | [Embeddings](eecs352stuff/CS352-embeddings.pdf) & [Embeddings Notebook](eecs352stuff/NUCS352_clap_embeddings_notebook.zip) |  |  |
+|8    | Thu May 21  | Final projects, VoiceID, Source Separation                                                 |                            |      |    
+|9    | Tue May 26  | Final project group formation & proposals                                                  | HW 4 Using Embeddings      |        20 |    
+|9    | Thu May 28   | Current research in music & audio                                                  | Project proposal due       | 3 (of 20) |    
+|10    | Tue Jun 2   | Zoom meetings with project groups (no class: meetings by appointment)                      | Project meeting            | 3 (of 20) |    
+|10   | Thu Jun 4  | Current research in music & audio                                                          |                            |           |    
+|11   | Tue Jun 9  | Zoom meetings with project groups (no class: meetings by appointment)                      | Project meeting            | 3 (of 20) |  
+|11   | Thu Jun 11  | Final project presentations 7-9pm NEW LOCATION: HCI+D Center in Francis Searle Building                          | Final project              | 11(of 20) |
 
 
 <a name="readings"></a>
