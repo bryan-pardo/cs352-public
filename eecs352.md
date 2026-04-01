@@ -19,14 +19,16 @@ Lecture: Tue, Tue, 3:30 - 4:50pm CST in Technological Institute M164
 
 ### Instructors & Office Hours
 [Dr. Jason Smith](https://jas1238smith.github.io/) 
-11am - 12pm Tuesdays in Mudd 3506
+1pm - 2pm Thursdays in Mudd 3506
 
 [TA Yuchen Cao](https://purmecia.github.io)
 11am - 1pm Tuesdays in Mudd 3108
 
-[Peer Mentor Nandini Ventakesh]
+[Peer Mentor Nandini Ventakesh]()
+11am - 12pm Wednesdays in Mudd 3108
 
-[Peer Mentor Aidan Mott]
+[Peer Mentor Aidan Mott]()
+3pm - 4pm Mondays in Mudd 3rd Floor Front Counter
 
 ### Course Policies 
 
